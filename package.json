@@ -8,13 +8,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Arthur528/employee-tracker.git"
+        "url": "git+https://github.com/Arthur528/quantum-of-employee-tracker.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Arthur528/employee-tracker/issues"
+        "url": "https://github.com/Arthur528/quantum-of-employee-tracker/issues"
     },
     "homepage": "https://github.com/Arthur528/quantum-of-employee-tracker#readme",
     "dependencies": {
