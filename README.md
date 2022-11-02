@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootcamp Challenge 12: SQL Challenge
 [![UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
 
@@ -46,3 +47,8 @@ The following image shows an example of the application being used from the comm
 A link to the [code]
 
 A link to the [demo video]
+=======
+# quantum-of-employee-tracker
+SQL Challenge: Employee Tracker
+[![UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
+>>>>>>> b52a8de80a36db40192a15fba1fe69ee29257fc9
