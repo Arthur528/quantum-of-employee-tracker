@@ -43,6 +43,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 The following image shows an example of the application being used from the command line:
 
 ## Link
-A link to the [code]
+A link to the [github](https://github.com/Arthur528/quantum-of-employee-tracker)
 
-A link to the [demo video]
+https://github.com/Arthur528/quantum-of-employee-tracker
+
+
+A link to the [demo video](https://drive.google.com/file/d/1bZ5MYGEgQM42La-8kd7hHUuCvOZY4B30/view)
+
+https://drive.google.com/file/d/1bZ5MYGEgQM42La-8kd7hHUuCvOZY4B30/view
